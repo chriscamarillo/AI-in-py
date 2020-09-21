@@ -1,2 +1,3 @@
 # AI-Class-Code
-somewhere to store my code for class when swapping computers
+
+Stuff I learned/created while taking an Artifical Intelligence class is placed here.
